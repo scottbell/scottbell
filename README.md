@@ -3,7 +3,7 @@
 1617 Bonnie Brae Street \
 Houston, TX 77006 \
 (832) 715-2652 \
-scott@scottbell.name \
+scott@scottbell.name
 
 ## Computer Expertise
     * Operating Systems: Linux, MacOSX, Windows,
@@ -53,7 +53,7 @@ BioSim: The open source life support simulation.
 ## Patents
     System and method for executing operations specified in a procedure language \
     Issued Jul 3, 2018 Patent issuer and number us 10013266 \
-    A system for executing a procedure includes a procedure execution engine. The procedure execution engine is configured to translate a procedure defined via a procedure language to natural language statements corresponding to the operations specified by the procedure language. The procedure execution engine is also configured to generate a user interface for controlling execution of the procedure, and to display the natural language statements via the user interface. The procedure execution engine is further configured to indicate progress of execution of the procedure, via the user interface, based on the displayed natural language statements. \
+    A system for executing a procedure includes a procedure execution engine. The procedure execution engine is configured to translate a procedure defined via a procedure language to natural language statements corresponding to the operations specified by the procedure language. The procedure execution engine is also configured to generate a user interface for controlling execution of the procedure, and to display the natural language statements via the user interface. The procedure execution engine is further configured to indicate progress of execution of the procedure, via the user interface, based on the displayed natural language statements.
 
 ## Education
 2001 B.S. Computer Science from the University of Texas at Austin
