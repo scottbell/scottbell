@@ -39,12 +39,12 @@ Assisted in development of distributed version control software. Worked on Postg
 Helped students with symbolic representation and design patterns. Lectured on Java programming fundamentals.
 
 ## Ongoing Personal Projects
-BioSim: The open source life support simulation.
+BioSim: The open source life support simulation (https://github.com/scottbell/biosim)
 
 ## Patents
 System and method for executing operations specified in a procedure language \
-Issued Jul 3, 2018 Patent issuer and number us 10013266 \
-A system for executing a procedure includes a procedure execution engine. The procedure execution engine is configured to translate a procedure defined via a procedure language to natural language statements corresponding to the operations specified by the procedure language. The procedure execution engine is also configured to generate a user interface for controlling execution of the procedure, and to display the natural language statements via the user interface. The procedure execution engine is further configured to indicate progress of execution of the procedure, via the user interface, based on the displayed natural language statements.
+Issued Jul 3, 2018 Patent issuer and number us 10013266 (http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/10013266)\
+> A system for executing a procedure includes a procedure execution engine. The procedure execution engine is configured to translate a procedure defined via a procedure language to natural language statements corresponding to the operations specified by the procedure language. The procedure execution engine is also configured to generate a user interface for controlling execution of the procedure, and to display the natural language statements via the user interface. The procedure execution engine is further configured to indicate progress of execution of the procedure, via the user interface, based on the displayed natural language statements.
 
 ## Education
 2001 B.S. Computer Science from the University of Texas at Austin
