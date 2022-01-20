@@ -1,21 +1,22 @@
 
 # Scott Bell 
-1617 Bonnie Brae Street \
-Houston, TX 77006 \
+5202 Grand Lake St \
+Bellaire, TX 77401 \
 (832) 715-2652 \
 scott@scottbell.name
 
 ## Computer Expertise
- * Operating Systems: Linux, MacOS, Windows
- * Languages (in order of familiarity): Javascript, Java, OWL, Bash, C/C++, SQL, Python
- * Technologies: Node.js, Amazon EC2, REST, Websockets, Eclipse/RCP, Git
+ * Languages (in order of familiarity): Javascript, Java, OWL, C/C++, SQL, Python
+ * Technologies: Node.js, Vue.js, AWS
 
 ## Experience
-### Lead Software Engineer (August 2013 to Present) @ TRACLabs
-I've led development on PRIDE, a software suite for automating standard operating procedures for both humans and robots. The software is in use 24/7 at Fortune 500 companies, commercial space operators, and at NASA. I run biweekly planning meetings, write prototypes, estimate schedules, plan feature sets, and file for patents. I also coordinate with QA, DevOps, product management, and marketing.
- 
-### Senior Software Engineer (August 2006 to 2013) @ TRACLabs and NASA Johnson Space Center
-I led development of PRONTOE, an ontology editor for domain experts. Created in concert with NASA, the tool allowed for complex ontology development by non-computer scientists. I also led development on a complex event processor for space system telemetry called DARE (Data Abstraction Runtime Engine). DARE was a high performance, easily scaled system using ActiveMQ as its message bus. DARE was developed to help both humans, e.g., Mission Control, and robots reason on higher level state information instead of a cacophony of telemetry data.
+### Senior Software Engineer (August 2021 to Present) @ TRACLabs and NASA Ames Space Center
+I'm part of the [OpenMCT](https://nasa.github.io/openmct/) team developing the next-generation mission control framework for the [NASA VIPER lunar rover](https://www.nasa.gov/viper) and [other space missions](https://nasa.github.io/openmct/whos-using-open-mct/). I work in frontend and backend software development, design, and prototyping. The application stack is a Vue.js frontend, with Node.js and CouchDB on the backend.
+
+### Lead Software Engineer (August 2013 to 2021) @ TRACLabs
+I lead development on PRIDE, a software suite for automating standard operating procedures for both humans and robots. The software is in use 24/7 at Fortune 500 companies, commercial space operators, and at NASA. It has thousands of simultaneous users. The application stack is Node.js, MySQL, a Vue.js frontend, and hosted on AWS & Azure. NASA used PRIDE during several ISS spacewalks, for the X-57 project, and the VIPER moon rover.
+
+I manage the technical work of over a dozen frontend and backend developers, which includes stand ups, code reviews, hiring, and providing technical guidance and coaching to developers and engineers. I also create prototypes for new features, estimate schedules and costs, plan feature sets and releases, and file for patents. I'm responsible for locating and directing resolutions for critical issues related to the software system, and coordinate with QA, DevOps, product management, and marketing.
 	
 ### Software Engineer (August 2002 to 2006) @ S&K Aerospace and NASA Johnson Space Center
 I was sole developer on a discrete event life support simulation for intelligent control algorithms called BioSim. The simulation was a test bed for studies ranging from machine learning to reliability theory. The simulation was used by many research institutions and universities including: MIT, Rice, Vanderbilt, UIUC, UC, and the NSF
