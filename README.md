@@ -1,8 +1,9 @@
 
 # Scott Bell 
-5202 Grand Lake St \
-Bellaire, TX 77401 \
-(832) 715-2652 \
+Rue de Genève 76B \
+Chêne-Bourg, GE 1225 \
+Switzerland \
++1 (832) 715-2652 \
 scott@scottbell.name
 
 ## Computer Expertise
